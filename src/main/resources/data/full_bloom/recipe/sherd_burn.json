@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:burn_pottery_sherd"
+  },
+  "base": {
+    "item": "minecraft:book"
+  },
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "fire_aspect": 2,
+        "flame": 1
+      }
+    }
+  },
+  "template": {
+    "item": "full_bloom:flosculus"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:archer_pottery_sherd"
+  },
+  "base": {
+    "item": "minecraft:book"
+  },
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "impaling": 5,
+        "multishot": 1,
+        "infinity": 1
+      }
+    }
+  },
+  "template": {
+    "item": "full_bloom:flosculus"
+  }
+}

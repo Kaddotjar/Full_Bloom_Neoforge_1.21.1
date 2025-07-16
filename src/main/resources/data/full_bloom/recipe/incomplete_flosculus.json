@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "DCA",
+    "ABC",
+    "AAD"
+  ],
+
+  "key" : {
+    "A": {
+      "item" : "minecraft:amethyst_shard"
+    },
+    "B": {
+      "tag" : "minecraft:beacon_payment_items"
+    },
+    "C": {
+      "item" : "minecraft:quartz"
+    },
+    "D": {
+      "item" : "minecraft:torchflower"
+    }
+  },
+
+  "result": {
+    "id": "full_bloom:incomplete_flosculus"
+  }
+}

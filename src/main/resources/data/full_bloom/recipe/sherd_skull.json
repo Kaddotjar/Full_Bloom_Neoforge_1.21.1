@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:skull_pottery_sherd"
+  },
+  "base": {
+    "item": "minecraft:book"
+  },
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "smite": 5,
+        "power": 5
+      }
+    }
+  },
+  "template": {
+    "item": "full_bloom:flosculus"
+  }
+}

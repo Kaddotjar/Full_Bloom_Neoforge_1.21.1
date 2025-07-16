@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:heartbreak_pottery_sherd"
+  },
+  "base": {
+    "item": "minecraft:book"
+  },
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "unbreaking": 3
+      }
+    }
+  },
+  "template": {
+    "item": "full_bloom:flosculus"
+  }
+}

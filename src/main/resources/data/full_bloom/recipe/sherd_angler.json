@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:angler_pottery_sherd"
+  },
+  "base": {
+    "item": "minecraft:book"
+  },
+  "result": {
+    "item": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "riptide": 3,
+        "aqua_affinity": 3,
+        "luck_of_the_sea": 3
+      }
+    }
+  },
+  "template": {
+    "item": "full_bloom:flosculus"
+  }
+}
